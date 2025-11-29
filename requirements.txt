@@ -5,6 +5,8 @@ yfinance
 # requirements.txt
 matplotlib
 MinMaxScaler
+sklearn
+
 
 
 
