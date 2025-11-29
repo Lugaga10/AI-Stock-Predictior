@@ -1,4 +1,9 @@
 streamlit
 pandas
 numpy
-yfinance==0.2.66 
+yfinance
+# requirements.txt
+matplotlib
+
+
+
