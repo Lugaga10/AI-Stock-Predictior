@@ -4,7 +4,9 @@ numpy
 yfinance
 matplotlib
 scikit-learn
+tensorflow
 # requirements.txt
+
 
 
 
