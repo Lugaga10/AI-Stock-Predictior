@@ -4,8 +4,9 @@ numpy
 yfinance
 # requirements.txt
 matplotlib
-MinMaxScaler
+scikit-learn
 sklearn
+
 
 
 
