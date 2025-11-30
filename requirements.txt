@@ -2,10 +2,9 @@ streamlit
 pandas
 numpy
 yfinance
-# requirements.txt
 matplotlib
 scikit-learn
-sklearn
+# requirements.txt
 
 
 
